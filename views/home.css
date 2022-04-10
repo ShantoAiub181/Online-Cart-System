@@ -1,0 +1,13 @@
+*{
+  margin: 15px;
+  padding: 0;
+}
+
+body {
+   background-image: url(../product/aaron.jpg) ;
+   height: 100%;
+   background-size: cover;
+   background-position: center;
+   background-repeat: no-repeat;
+
+}
